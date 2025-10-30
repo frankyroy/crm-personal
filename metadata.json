@@ -1,5 +1,4 @@
 {
   "name": "Gemini CRM Pro",
-  "description": "A comprehensive Customer Relationship Management (CRM) application built with React, TypeScript, and Tailwind CSS. It features modules for managing contacts, tasks, files, notes, and users, along with a calendar view and AI-powered task description generation using the Gemini API.",
-  "requestFramePermissions": []
+  "description": "A comprehensive Customer Relationship Management (CRM) application built with React, TypeScript, and Tailwind CSS. It features modules for managing contacts, tasks, files, notes, and users, along with a calendar view and AI-powered task description generation using the Gemini API."
 }
